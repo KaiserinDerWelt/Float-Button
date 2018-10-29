@@ -1,0 +1,21 @@
+/* Css for float button */
+
+*{padding:0;margin:0;}
+
+
+.float{
+	position:fixed;
+	width:50px;
+	height:50px;
+	bottom:40px;
+	right:40px;
+	background-color:#EB3C96;
+	color:#F5FFFA;
+	border-radius:50px;
+	text-align:center;
+	box-shadow: 1px 1px 1px #2dbecd;
+}
+
+.my-float{
+	margin-top:18px;
+}
